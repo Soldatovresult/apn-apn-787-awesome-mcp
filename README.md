@@ -265,4 +265,4 @@ Help keep this list alive. If you are building a gateway, framework, or tool tha
 
 ### Open Source
 
-- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with an owner-set x402 policy and terminal approval for direct transfers.
